@@ -153,3 +153,27 @@ header {
   color: #737272;
   font-weight: 600px;
 }
+
+/* Banner Section Style */
+#banner {
+  width: 71%;
+  max-width: 1140px;
+  height: 300px;
+  margin: 130px auto;
+  align-items: center;
+  background: url("../images/watch.png");
+  background-repeat: no-repeat;
+  border-radius: 5px;
+}
+
+.banner_content {
+  padding: 59px 0px 59px 64px;
+  width: 540px;
+}
+
+.banner_content h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 24px;
+}
