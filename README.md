@@ -45,25 +45,18 @@ knowledge-vault/
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-
+```
 Open the index.html file in a web browser to view the website.
 
-To modify content:
+## To modify content:
+- Edit text and headings in index.html
+- Update styles in styles/portfolio.css
+- Replace images in the images/ folder
 
-Edit text and headings in index.html
-
-Update styles in styles/portfolio.css
-
-Replace images in the images/ folder
-
-License:
-
+## License:
 This project is for personal use or portfolio demonstration. You can customize it for your own purposes.
 
-Author:
-
-Nafiz Alam
-
-Email: nafizalam.dev@gmail.com
-
-Location: Dhaka, Bangladesh
+## Author:
+- Nafiz Alam
+- Email: nafizalam.dev@gmail.com
+- Location: Dhaka, Bangladesh
